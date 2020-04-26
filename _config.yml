@@ -1,0 +1,66 @@
+# Site settings
+title: The Logical Home
+description: "Embrace Your Space"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the name of your domain
+logo_url: img/Logo3.png
+
+# Hero
+hero: 
+    hero_img: hero.jpg
+    hero_title: The Logical Home
+    hero_description: Embrace your Space!
+
+# Contact form
+api_token: # Enter API token here
+
+# Contact info
+contact:
+    phone: (254) 555 1234
+    emergency:
+    email: thelogicalhomeco@gmail.com
+#    address: probably don't need an address
+
+# Opening hours
+monday_friday: 4:00 PM – 7:00 PM
+saturday: 9:00 AM – 5:00 PM
+sunday: 1:00 PM – 5:00 PM
+
+# Testimonials
+testimonials:
+    testimonials_img: parallax.jpg
+
+# Map
+#map:
+#    zoom: 17
+#    address: 342 Florence Ct Highlands Ranch CO 80126
+#    address_details: svg/min/logo.svg
+
+# Social settings
+facebook:
+twitter: 
+instagram:
+youtube:
+skype:
+feed: 
+# feed: yes
+
+# Footer
+copyright: © 2020 The Logical Home - All rights reserved
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
+
+# Theme Settings
+analytics: 
+google_verification:

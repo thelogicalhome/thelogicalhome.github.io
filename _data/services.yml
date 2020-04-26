@@ -1,0 +1,23 @@
+- icon: icon-heart
+  title: Homes
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: icon-phone
+  title: Offices
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: icon-leaf
+  title: Garages
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+
+- icon: icon-globe
+  title: Storage Units
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+#- icon: icon-ambulance
+#  title: Emergency Calls
+#  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+#- icon: icon-bed
+#  title: Rooms
+#  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
