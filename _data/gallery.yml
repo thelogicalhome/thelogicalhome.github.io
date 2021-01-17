@@ -1,31 +1,30 @@
-- image_thumb: example_img.jpg
-  image_large: example_img.jpg
-  image_alt: something meaningful
+- image_thumb: closet_b.jpg
+  image_large: closet_b.jpg
+  image_alt: closet before
 
-- image_thumb: example_img.jpg
-  image_large: example_img.jpg
-  image_alt: something meaningful
+- image_thumb: closet_a1.jpg
+  image_large: closet_a1.jpg
+  image_alt: closet after
 
-- image_thumb: example_img.jpg
-  image_large: example_img.jpg
-  image_alt: something meaningful
+- image_thumb: guest_b.jpg
+  image_large: guest_b.jpg
+  image_alt: guest before
 
-- image_thumb: example_img.jpg
-  image_large: example_img.jpg
-  image_alt: something meaningful
+- image_thumb: guest_a.jpg
+  image_large: guest_a.jpg
+  image_alt: guest after
 
-- image_thumb: example_img.jpg
-  image_large: example_img.jpg
-  image_alt: something meaningful
+- image_thumb: craft_b.jpg
+  image_large: craft_b.jpg
+  image_alt: craft before
 
-- image_thumb: example_img.jpg
-  image_large: example_img.jpg
-  image_alt: something meaningful
+- image_thumb: craft_a.jpg
+  image_large: craft_a.jpg
+  image_alt: craft after
+# - image_thumb: example_img.jpg
+#   image_large: example_img.jpg
+#   image_alt: something meaningful
 
-- image_thumb: example_img.jpg
-  image_large: example_img.jpg
-  image_alt: something meaningful
-
-- image_thumb: example_img.jpg
-  image_large: example_img.jpg
-  image_alt: something meaningful
+# - image_thumb: example_img.jpg
+#   image_large: example_img.jpg
+#   image_alt: something meaningful
